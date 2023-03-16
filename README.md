@@ -1,2 +1,2 @@
 # DecoderGPT
-This is Trnasformer Model implemented only for Decoder Model i.e Language Generation
+This is Transformer Model implemented only for Decoder Model i.e Language Generation
